@@ -1,0 +1,19 @@
+pysoil - is ctypes python module for SOIL (http://vosolok2008.narod.ru).
+
+SOIL - Simple OpenGL Image Library (http://www.lonesock.net).
+A tiny c library for uploading images as textures into OpenGL.
+Also saving and loading of images is supported.
+
+Image Formats:
+- BMP		load & save
+- TGA		load & save
+- DDS		load & save
+- PNG		load
+- JPG		load
+
+OpenGL Texture Features:
+- resample to power-of-two sizes
+- MIPmap generation
+- compressed texture S3TC formats (if supported)
+- can pre-multiply alpha for you, for better compositing
+- can flip image about the y-axis (except pre-compressed DDS files)

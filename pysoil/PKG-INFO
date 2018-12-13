@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: pysoil
+Version: 0.1
+Summary: ctypes python module for SOIL - Simple OpenGL Image Library
+Home-page: http://vosolok2008.narod.ru
+Author: Max Kolosov
+Author-email: vosolok2008@ya.ru
+License: BSD
+Download-URL: http://vosolok2008.narod.ru/pysoil.zip
+Description: A tiny c library for uploading images as textures into OpenGL. Also saving and loading of images is supported.
+Keywords: ctypes,soil,opengl,texture,image,jpeg,dds
+Platform: ALL
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities
+Requires: Python
+Requires: ctypes
